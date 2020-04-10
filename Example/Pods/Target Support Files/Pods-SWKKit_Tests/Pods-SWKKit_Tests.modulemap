@@ -1,0 +1,6 @@
+framework module Pods_SWKKit_Tests {
+  umbrella header "Pods-SWKKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

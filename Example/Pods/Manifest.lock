@@ -1,0 +1,24 @@
+PODS:
+  - Masonry (1.1.0)
+  - SWKKit (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - Masonry (= 1.1.0)
+  - SWKKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  SWKKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SWKKit: 774dd764d340e5417a9cc6e2931d0a98b7137c7d
+
+PODFILE CHECKSUM: 621a399ebeebb68f0c6fc1eb840d9db27479b3fb
+
+COCOAPODS: 1.7.0
